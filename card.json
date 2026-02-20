@@ -2,16 +2,19 @@
   "card_001": {
     "name": "國王鹿",
     "rarity": "SSR",
-    "image_url": "https://kivxxx.github.io/rulemei-asset/images/king.png"
+    "image_url": "https://kivxxx.github.io/rulemei-asset/images/king.png",
+    "story": "從前他只是個鹿國農民，直到有一天撿到石中管，每天鹿10發後，終成鹿國國王。"
   },
   "card_002": {
     "name": "上班族鹿",
     "rarity": "SR",
-    "image_url": "https://kivxxx.github.io/rulemei-asset/images/office.png"
+    "image_url": "https://kivxxx.github.io/rulemei-asset/images/office.png",
+    "story": "瘋啦，上班還鹿。"
   },
   "card_003": {
     "name": "虛脫鹿",
     "rarity": "SSR",
-    "image_url": "https://kivxxx.github.io/rulemei-asset/images/die.png"
+    "image_url": "https://kivxxx.github.io/rulemei-asset/images/die.png",
+    "story": "你先停。"
   }
 }
