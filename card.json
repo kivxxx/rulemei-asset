@@ -28,5 +28,11 @@
     "rarity": "SSR",
     "image_url": "https://kivxxx.github.io/rulemei-asset/images/mc.png",
     "story": "聖誕節快樂。"
+  },
+  "card_006": {
+    "name": "鹿管時間",
+    "rarity": "N",
+    "image_url": "https://kivxxx.github.io/rulemei-asset/images/class.png",
+    "story": "經典無須多言。"
   }
 }
