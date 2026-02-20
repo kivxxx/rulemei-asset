@@ -7,7 +7,7 @@
   },
   "card_002": {
     "name": "上班族鹿",
-    "rarity": "SR",
+    "rarity": "S",
     "image_url": "https://kivxxx.github.io/rulemei-asset/images/office.png",
     "story": "瘋啦，上班還鹿。"
   },
@@ -16,5 +16,17 @@
     "rarity": "SSR",
     "image_url": "https://kivxxx.github.io/rulemei-asset/images/die.png",
     "story": "你先停。"
+  },
+  "card_004": {
+    "name": "軟鹿",
+    "rarity": "A",
+    "image_url": "https://kivxxx.github.io/rulemei-asset/images/die.png",
+    "story": "哥們吃點補的吧。"
+  },
+  "card_005": {
+    "name": "聖誕鹿",
+    "rarity": "SSR",
+    "image_url": "https://kivxxx.github.io/rulemei-asset/images/mc.png",
+    "story": "聖誕節快樂。"
   }
 }
