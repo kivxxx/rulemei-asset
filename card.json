@@ -1,13 +1,13 @@
 {
   "card_001": {
     "name": "國王鹿",
-    "rarity": "SSR",
+    "rarity": "SR",
     "image_url": "https://kivxxx.github.io/rulemei-asset/images/king.png",
     "story": "從前他只是個鹿國農民，直到有一天撿到石中管，每天鹿10發後，終成鹿國國王。"
   },
   "card_002": {
     "name": "上班族鹿",
-    "rarity": "S",
+    "rarity": "B",
     "image_url": "https://kivxxx.github.io/rulemei-asset/images/office.png",
     "story": "瘋啦，上班還鹿。"
   },
@@ -19,13 +19,13 @@
   },
   "card_004": {
     "name": "軟鹿",
-    "rarity": "A",
+    "rarity": "S",
     "image_url": "https://kivxxx.github.io/rulemei-asset/images/soft.png",
     "story": "哥們吃點補的吧。"
   },
   "card_005": {
     "name": "聖誕鹿",
-    "rarity": "SSR",
+    "rarity": "A",
     "image_url": "https://kivxxx.github.io/rulemei-asset/images/mc.png",
     "story": "聖誕節快樂。"
   },
@@ -37,13 +37,13 @@
   },
   "card_007": {
     "name": "多鹿時間",
-    "rarity": "B",
+    "rarity": "D",
     "image_url": "https://kivxxx.github.io/rulemei-asset/images/muilt.png",
     "story": "兄弟就是要一起鹿，對吧。"
   },
   "card_008": {
     "name": "粉紅管",
-    "rarity": "A",
+    "rarity": "B",
     "image_url": "https://kivxxx.github.io/rulemei-asset/images/pinkguy.png",
     "story": "他們都說我得管很粉。"
   },
